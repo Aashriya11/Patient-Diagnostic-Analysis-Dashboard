@@ -40,6 +40,7 @@ Create a structure Patient Detail Dim_Table. The Partient Detail Dimension Table
 * Separating Patients details from Fact_Patient Symptoms Table.
 * Creating a dimension table with cleaned and structures patient information.
 * Retaining only the first visit data for each patient to ensure unique patient records. (usage of claude.ai for getting the best suitable data)
+[Click here to get prompt](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard/blob/0542ac0655d5cca71c626fbabd094e6814b6ebf0/Assets/AI%20Prompt.png)
 
 ***Pupose:** The Patient Profile Dim_Table enables more efficient analysis & quering of patient data by poviding a clean, structured and unique set of patient profiles.*
 
@@ -79,9 +80,11 @@ This dashboard provides a high-level overview of patient diagnostics, tracking v
 | Total Visits       | 10,000         |
 | Total Patients     | 3,678          |
 | Visit Frequency    | 2.7            |
-| High Risk Patients | 1,151 (⚠︎31.3%) |
+| High Risk Patients | 1,151 (⚠︎ 31.3%) |    
 | Avg Patient Age    | 43             |
 | Top Fever Type     | Viral          |
+
+> *Note: **High-risk patients** are calculated based on the patient’s last visit to ensure the most accurate and current health status.*
 
 #### Key Insights:
 * Patient visits show fluctuating trends over time, indicating possible seasonal or external influences on healthcare demand.
@@ -99,11 +102,13 @@ This dashboard provides a detailed view of patient visits, admission trends and 
 | Metric                      | Value        |
 | --------------------------- | ------------ |
 | Admission Rate %            | 65.8%        |
-| Diabetic Patients           | 47           |
-| Thyroid Risk Patients       | 580 (⚠︎15.8%) |
-| Liver Disease Risk Patients | 106 (⚠︎2.9%)  |
-| Asthma Risk Patients        | 607 (⚠︎16.5%) |
+| Diabetic Patients           | 47 (⚠︎ 1.3%) |
+| Thyroid Risk Patients       | 580 (⚠︎ 15.8%) |
+| Liver Disease Risk Patients | 106 (⚠︎ 2.9%)  |
+| Asthma Risk Patients        | 607 (⚠︎ 16.5%) |
 | Avg Gap Between Visits      | 160 Days     |
+
+> *Note: **Diabetic , Thyroid risk , Liver disease risk & Asthma risk patients** are calculated based on the patient’s last visit to ensure the most accurate and current health status.*
 
 #### Key Insights:
 * Admission rate stands at 65.8%, indicating a significant proportion of patients requiring hospital care.
