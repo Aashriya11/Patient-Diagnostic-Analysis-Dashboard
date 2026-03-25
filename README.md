@@ -19,7 +19,7 @@ The report is built using **Power BI**, focuses on analyzing patient diagnostic 
 
 ## 🎥 DASHBOARD VIDEO
 
-https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard/blob/5e8cdd3554032ccb4b3232c0e2a30bb56bff3dc5/Assets/Dashboard.mov
+https://github.com/user-attachments/assets/3ea11f41-7a55-466c-b5ae-58522f69ed76
 
 ---
 
