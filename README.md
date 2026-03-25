@@ -13,7 +13,7 @@ The report is built using **Power BI**, focuses on analyzing patient diagnostic 
 - [Dashboard Preview](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#%EF%B8%8F-dashboard-preview)
 - [Dashboard Video](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-dashboard-video)
 - [Dashboard Pre-Processing Process](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#%EF%B8%8F-data-pre-processing-process)
-- [Dashboard Structure & Insights](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-dashboard-structure)
+- [Dashboard Structure & Insights](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard#-dashboard-structure--insights)
 - [Key Takeaways](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-key-takeaways)
 - [Tools Used](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-tools-used)
 - [Connect](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard#-connect)
@@ -153,6 +153,5 @@ This dashboard provides a detailed patient-level view, combining medical history
 
 ## 🔗 Connect
 
-Made By - Aashriya Rawat
-
-LinkedIn post - [Click Link](https://www.linkedin.com/posts/aashriya-rawat_databuzz-dataanalytics-powerbi-activity-7442227701572075520-IOKx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaKQXIB1-GIE2Nng4OT5hcLpf_ah6hUxno)
+**Made By:** Aashriya Rawat  
+**LinkedIn Post:** [Click Here](https://www.linkedin.com/posts/aashriya-rawat_databuzz-dataanalytics-powerbi-activity-7442227701572075520-IOKx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaKQXIB1-GIE2Nng4OT5hcLpf_ah6hUxno)
