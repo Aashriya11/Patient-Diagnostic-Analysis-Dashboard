@@ -1,5 +1,5 @@
 # PATIENT DIAGNOSTIC ANALYSIS DASHBOARD
-## DATABUZZ CHALLENGE - MARCH 2026
+### DATABUZZ CHALLENGE - MARCH 2026
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-blue)
@@ -8,7 +8,7 @@
 The report is built using **Power BI**, focuses on analyzing patient diagnostic data to uncover meaningful insights that support accurate clinical decisions and improved patient care.
 
 
-# 📑 Table of Contents
+## 📑 TABLE OF CONTENT
 
 - [Dashboard Preview](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#%EF%B8%8F-dashboard-preview)
 - [Dashboard Video](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-dashboard-video)
@@ -19,19 +19,19 @@ The report is built using **Power BI**, focuses on analyzing patient diagnostic 
 - [Connect](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard#-connect)
 
 
-# 🖼️ DASHBOARD PREVIEW
+## 🖼️ DASHBOARD PREVIEW
 
 ![Dashboard gif](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard/blob/ba81485052c77fd1dd6bb29b5d832effc2664bfb/Assets/Dashboard%20gif.gif)
 
 🔗Explore the Live Dashboard - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNTI4ZDNlMGYtMTJiOC00NjVjLWE1MjYtM2IzOTA0MjIwMDhkIiwidCI6IjUxMTBiMWYwLTk4N2YtNGNlYi05NTk1LTM2NWViZDk0NTFjNyJ9)
 
 
-# 🎥 DASHBOARD VIDEO
+## 🎥 DASHBOARD VIDEO
 
 https://github.com/user-attachments/assets/3ea11f41-7a55-466c-b5ae-58522f69ed76
 
 
-# 🛠️ DATA PRE-PROCESSING PROCESS
+## 🛠️ DATA PRE-PROCESSING PROCESS
 The first stage of preparing the datasets for analysis involved accurate analysis and efficient reporting, the dataset was transformed and structured using a star schema approach, separating data into Fact and Dimension tables for better performance and scalability.
 
 
@@ -61,7 +61,7 @@ Create a structure Patient Detail Dim_Table. The Partient Detail Dimension Table
 
 
 
-# 📋 DASHBOARD STRUCTURE & INSIGHTS
+## 📋 DASHBOARD STRUCTURE & INSIGHTS
 Built 3-page Power BI dashboard focusing on:
 * Overview
 * Patient Visit & Diagnostic Overview
@@ -124,7 +124,7 @@ This dashboard provides a detailed patient-level view, combining medical history
 
 
 
-# 🔍 KEY TAKEAWAYS
+## 🔍 KEY TAKEAWAYS
 
 * **Patient Trends & Risk Growth:** Patient visits show dynamic trends with moderate engagement, but a rising proportion of high-risk cases highlights the need for proactive healthcare strategies.
 
@@ -140,7 +140,7 @@ This dashboard provides a detailed patient-level view, combining medical history
 
 
 
-# 🛠 Tools Used
+## 🛠 Tools Used
 
 - Power BI  
 - DAX  
@@ -151,7 +151,7 @@ This dashboard provides a detailed patient-level view, combining medical history
 
 
 
-# 🔗 Connect
+## 🔗 Connect
 
 Made By - Aashriya Rawat
 
