@@ -23,9 +23,9 @@ https://github.com/user-attachments/assets/3ea11f41-7a55-466c-b5ae-58522f69ed76
 
 ---
 
-## DATA FEATURE ENGINEERING
+## ✍🏼 DATA FEATURE ENGINEERING
 
-###Create a structure Patient Detail Dimension Table 
+### Create a structure Patient Detail Dimension Table 
 The Partient Detail Dimension Table creation involves restructuring the raw patients data from the dataset. This process includes:
 * Separating Patients details from Fact_Patient Symptoms Table.
 * Creating a dimension table with cleaned and structures patient information.
