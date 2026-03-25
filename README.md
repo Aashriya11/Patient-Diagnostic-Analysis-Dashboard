@@ -126,7 +126,7 @@ This dashboard provides a detailed patient-level view, combining medical history
 
 ---
 
-### 🔍 KEY TAKEAWAYS
+## 🔍 KEY TAKEAWAYS
 
 * **Patient Trends & Risk Growth:** Patient visits show dynamic trends with moderate engagement, but a rising proportion of high-risk cases highlights the need for proactive healthcare strategies.
 
@@ -140,6 +140,7 @@ This dashboard provides a detailed patient-level view, combining medical history
 
 * **Overall Impact:** The dashboard enables data-driven decision-making by connecting high-level trends with granular patient insights, supporting better clinical and operational outcomes.
 
+---
 
 ## 🛠 Tools Used
 
