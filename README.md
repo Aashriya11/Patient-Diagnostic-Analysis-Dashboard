@@ -9,17 +9,13 @@ The report is built using **Power BI**, focuses on analyzing patient diagnostic 
 
 ## 📑 Table of Contents
 
-- [ Project Overview](#-project-overview)
-- [ Objective](#-objective)
-- [ Dashboard Overview](#-dashboard-overview)
-- [Pages Description](#-pages-description)
-- [Key Insights](#-key-insights)
-- [Tools & Technologies Used](#️-tools--technologies-used)
-- [Dataset Details](#-dataset-details)
-- [Live Dashboard](#-live-dashboard)
-- [Dashboard Preview](#-dashboard-preview)
-- [Learnings](#-learnings)
-- [Acknowledgements](#-acknowledgements)
+- [Dashboard Preview](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#%EF%B8%8F-dashboard-preview)
+- [Dashboard Video](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-dashboard-video)
+- [Dashboard Pre-Processing Process](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#%EF%B8%8F-data-pre-processing-process)
+- [Dashboard Structure & Insights](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-dashboard-structure)
+- [Key Takeaways](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-key-takeaways)
+- [Tools Used](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-tools-used)
+- [Connect](#https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-connect)
 
 ---
 
@@ -66,7 +62,7 @@ Create a structure Patient Detail Dim_Table. The Partient Detail Dimension Table
 
 ---
 
-## 📋 DASHBOARD STRUCTURE
+## 📋 DASHBOARD STRUCTURE & INSIGHTS
 Built 3-page Power BI dashboard focusing on:
 * Overview
 * Patient Visit & Diagnostic Overview
@@ -158,5 +154,5 @@ This dashboard provides a detailed patient-level view, combining medical history
 
 ## 🔗 Connect
 Feel free to connect for collaboration, reviews, or suggestions to enhance this project further.
-
-
+Made By- **Aashriya Rawat**
+LinkedIn post - [Clink link](https://www.linkedin.com/posts/aashriya-rawat_databuzz-dataanalytics-powerbi-activity-7442227701572075520-IOKx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEaKQXIB1-GIE2Nng4OT5hcLpf_ah6hUxno)
