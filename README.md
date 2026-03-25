@@ -40,6 +40,7 @@ Create a structure Patient Detail Dim_Table. The Partient Detail Dimension Table
 * Separating Patients details from Fact_Patient Symptoms Table.
 * Creating a dimension table with cleaned and structures patient information.
 * Retaining only the first visit data for each patient to ensure unique patient records. (usage of claude.ai for getting the best suitable data)
+[Click here to get prompt](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard/blob/0542ac0655d5cca71c626fbabd094e6814b6ebf0/Assets/AI%20Prompt.png)
 
 ***Pupose:** The Patient Profile Dim_Table enables more efficient analysis & quering of patient data by poviding a clean, structured and unique set of patient profiles.*
 
