@@ -7,6 +7,20 @@
 
 The report is built using **Power BI**, focuses on analyzing patient diagnostic data to uncover meaningful insights that support accurate clinical decisions and improved patient care.
 
+## 📑 Table of Contents
+
+- [ Project Overview](#-project-overview)
+- [ Objective](#-objective)
+- [ Dashboard Overview](#-dashboard-overview)
+- [Pages Description](#-pages-description)
+- [Key Insights](#-key-insights)
+- [Tools & Technologies Used](#️-tools--technologies-used)
+- [Dataset Details](#-dataset-details)
+- [Live Dashboard](#-live-dashboard)
+- [Dashboard Preview](#-dashboard-preview)
+- [Learnings](#-learnings)
+- [Acknowledgements](#-acknowledgements)
+
 ---
 
 ## 🖼️ DASHBOARD PREVIEW
