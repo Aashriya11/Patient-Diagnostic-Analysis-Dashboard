@@ -108,17 +108,6 @@ This dashboard provides a detailed view of patient visits, admission trends and 
 
 This dashboard provides a detailed patient-level view, combining medical history, symptoms, medications and lab results to enable comprehensive diagnostic analysis and personalized care insights.
 
-#### Key KPIs:
-| Metric                | Value                |
-| --------------------- | -------------------- |
-| Selected Patient ID   | P00100               |
-| Age                   | 61                   |
-| Gender                | Male                 |
-| Total Visits (Sample) | 3                    |
-| Risk Levels Observed  | High / Medium        |
-| Admission Required    | Yes (in some visits) |
-
-#### Key Insights:
 * Patient history shows multiple visits with varying risk levels, indicating fluctuating health conditions over time.
 * Presence of high-risk indicators and admissions suggests the need for continuous monitoring and timely intervention.
 * Symptom tracking reveals recurring issues like fever and fatigue, helping identify patterns in patient health.
