@@ -80,9 +80,11 @@ This dashboard provides a high-level overview of patient diagnostics, tracking v
 | Total Visits       | 10,000         |
 | Total Patients     | 3,678          |
 | Visit Frequency    | 2.7            |
-| High Risk Patients | 1,151 (⚠︎31.3%) |
+| High Risk Patients | 1,151 (⚠︎ 31.3%) |    
 | Avg Patient Age    | 43             |
 | Top Fever Type     | Viral          |
+
+> *Note: **High-risk patients** are calculated based on the patient’s last visit to ensure the most accurate and current health status.*
 
 #### Key Insights:
 * Patient visits show fluctuating trends over time, indicating possible seasonal or external influences on healthcare demand.
@@ -100,11 +102,13 @@ This dashboard provides a detailed view of patient visits, admission trends and 
 | Metric                      | Value        |
 | --------------------------- | ------------ |
 | Admission Rate %            | 65.8%        |
-| Diabetic Patients           | 47           |
-| Thyroid Risk Patients       | 580 (⚠︎15.8%) |
-| Liver Disease Risk Patients | 106 (⚠︎2.9%)  |
-| Asthma Risk Patients        | 607 (⚠︎16.5%) |
+| Diabetic Patients           | 47 (⚠︎ 1.3%) |
+| Thyroid Risk Patients       | 580 (⚠︎ 15.8%) |
+| Liver Disease Risk Patients | 106 (⚠︎ 2.9%)  |
+| Asthma Risk Patients        | 607 (⚠︎ 16.5%) |
 | Avg Gap Between Visits      | 160 Days     |
+
+> *Note: **Diabetic , Thyroid risk , Liver disease risk & Asthma risk patients** are calculated based on the patient’s last visit to ensure the most accurate and current health status.*
 
 #### Key Insights:
 * Admission rate stands at 65.8%, indicating a significant proportion of patients requiring hospital care.
