@@ -7,6 +7,7 @@
 
 The report is built using **Power BI**, focuses on analyzing patient diagnostic data to uncover meaningful insights that support accurate clinical decisions and improved patient care.
 
+---
 
 ## 📑 TABLE OF CONTENT
 
@@ -18,6 +19,7 @@ The report is built using **Power BI**, focuses on analyzing patient diagnostic 
 - [Tools Used](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard?tab=readme-ov-file#-tools-used)
 - [Connect](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard#-connect)
 
+---
 
 ## 🖼️ DASHBOARD PREVIEW
 
@@ -25,13 +27,16 @@ The report is built using **Power BI**, focuses on analyzing patient diagnostic 
 
 🔗Explore the Live Dashboard - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNTI4ZDNlMGYtMTJiOC00NjVjLWE1MjYtM2IzOTA0MjIwMDhkIiwidCI6IjUxMTBiMWYwLTk4N2YtNGNlYi05NTk1LTM2NWViZDk0NTFjNyJ9)
 
+---
 
 ## 🎥 DASHBOARD VIDEO
 
 https://github.com/user-attachments/assets/d74463c6-4bfe-413c-8ec5-29784712539f
 
+---
 
 ## 🛠️ DATA PRE-PROCESSING PROCESS
+
 The first stage of preparing the datasets for analysis involved accurate analysis and efficient reporting, the dataset was transformed and structured using a star schema approach, separating data into Fact and Dimension tables for better performance and scalability.
 
 
@@ -60,9 +65,10 @@ Create a structure Patient Detail Dim_Table. The Partient Detail Dimension Table
 | Measure Table          | Supporting Table | Stores all DAX measures (KPIs like Admission Rate %, Avg Patient Age) for better model organization. |
 | Prm_Location           | Supporting Table | Parameter table used for dynamic location-based filtering and interactive analysis. |
 
-
+---
 
 ## 📋 DASHBOARD STRUCTURE & INSIGHTS
+
 Built 3-page Power BI dashboard focusing on:
 * Overview
 * Patient Visit & Diagnostic Overview
@@ -127,7 +133,7 @@ This dashboard provides a detailed patient-level view, combining medical history
 * Symptom tracking reveals recurring issues like fever and fatigue, helping identify patterns in patient health.
 * Blood test results and medical records highlight a mix of normal and abnormal parameters, supporting detailed diagnostic evaluation and personalized treatment planning.
 
-
+---
 
 ## 🔍 KEY TAKEAWAYS
 
@@ -143,7 +149,7 @@ This dashboard provides a detailed patient-level view, combining medical history
 
 * **Overall Impact:** The dashboard enables data-driven decision-making by connecting high-level trends with granular patient insights, supporting better clinical and operational outcomes.
 
-
+---
 
 ## 🛠 Tools Used
 
@@ -154,7 +160,7 @@ This dashboard provides a detailed patient-level view, combining medical history
 - Canva
 - Excel 
 
-
+---
 
 ## 🔗 Connect
 
