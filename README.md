@@ -23,15 +23,9 @@ The report is built using **Power BI**, focuses on analyzing patient diagnostic 
 
 ## 🖼️ DASHBOARD PREVIEW
 
-![Dashboard gif](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard/blob/ba81485052c77fd1dd6bb29b5d832effc2664bfb/Assets/Dashboard%20gif.gif)
+![Dashboard gif](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard/blob/b8a84a7c526b3ba757409f721a03f60d67245314/Assets/Dashboard%20gif.gif)
 
 🔗Explore the Live Dashboard - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiNTI4ZDNlMGYtMTJiOC00NjVjLWE1MjYtM2IzOTA0MjIwMDhkIiwidCI6IjUxMTBiMWYwLTk4N2YtNGNlYi05NTk1LTM2NWViZDk0NTFjNyJ9)
-
----
-
-## 🎥 DASHBOARD VIDEO
-
-https://github.com/user-attachments/assets/d74463c6-4bfe-413c-8ec5-29784712539f
 
 ---
 
@@ -45,7 +39,7 @@ Create a structure Patient Detail Dim_Table. The Partient Detail Dimension Table
 * Separating Patients details from Fact_Patient Symptoms Table.
 * Creating a dimension table with cleaned and structures patient information.
 * Retaining only the first visit data for each patient to ensure unique patient records. (usage of claude.ai for getting the best suitable data)
-[Click here to get prompt](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard/blob/0542ac0655d5cca71c626fbabd094e6814b6ebf0/Assets/AI%20Prompt.png)
+[Click here to get prompt](https://github.com/Aashriya11/Patient-Diagnostic-Analysis-Dashboard/blob/b8a84a7c526b3ba757409f721a03f60d67245314/Assets/AI%20Prompt.png)
 
 ***Pupose:** The Patient Profile Dim_Table enables more efficient analysis & quering of patient data by poviding a clean, structured and unique set of patient profiles.*
 
@@ -132,6 +126,12 @@ This dashboard provides a detailed patient-level view, combining medical history
 * Presence of high-risk indicators and admissions suggests the need for continuous monitoring and timely intervention.
 * Symptom tracking reveals recurring issues like fever and fatigue, helping identify patterns in patient health.
 * Blood test results and medical records highlight a mix of normal and abnormal parameters, supporting detailed diagnostic evaluation and personalized treatment planning.
+
+
+
+### Page 4 -Patient Diagnostic Engine
+
+This page serves as an interactive diagnostic analysis tool that evaluates patient-reported symptoms and clinical indicators to identify the likely fever type and suggest appropriate medications, enabling quick, data-driven healthcare insights.
 
 ---
 
